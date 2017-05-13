@@ -93,7 +93,7 @@ public class Planet {
 	public void draw(){
 		String planetImg = "images/"+this.imgFileName;
 		//when x=1, it will be right most, y=1 it will at top
-		StdDraw.picture(this.xxPos / 2.50e+11 + 0.5, this.yyPos / 2.50e+11 + 0.5, planetImg);
+		StdDraw.picture(this.xxPos / 5.00e+11 + 0.5, this.yyPos / 5.0e+11 + 0.5, planetImg);
 	}
 	
 }
