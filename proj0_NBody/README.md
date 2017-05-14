@@ -2,7 +2,7 @@ Project 0
 ========
 
 This is the first project of CS61B 17Spring of UCBerkley. Final result is shown as below. 
-![Alt text](NBody.jpg?raw=true "Project Result")
+![Alt text](images/NBody.PNG?raw=true "Project Result")
 
 ## File Hierarchy
 data/Planet.txt contains the properties of all the planets
