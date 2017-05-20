@@ -1,3 +1,19 @@
+###To run code
+comparable
+```
+cd comparable
+javac Dog.java DogLauncher.java Maximizer.java
+java DogLauncher
+```
+
+comparator
+```
+cd comparator
+javac Dog.java DogLauncher.java Maximizer.java
+java DogLauncher
+```
+
+###Summary
 Same between comparable and comparator
 1. Both of them are used to implement comparation and ordering of objects
 2. Both of them are interface of JAVA
