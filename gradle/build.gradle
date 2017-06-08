@@ -1,0 +1,9 @@
+
+
+apply plugin: "java"
+
+task execute(type: JavaExec) {
+    main = "com.gradle.HelloWorld"
+    // We'll talk about this shortly
+    classpath = sourceSets.main.runtimeClasspath
+}
