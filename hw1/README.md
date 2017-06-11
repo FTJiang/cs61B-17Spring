@@ -1,14 +1,14 @@
 Table of Contents
 ----------------
 
-- [How Work](#How Work)
+- [How Work](#HowWork)
 - [Introduction](#introduction)
 - [Task 1:  BoundedQueue](#interface)
 - [Task 2:  AbstractBoundedQueue](#abstract)
 - [Task 3:  ArrayRingBuffer](#array)
 - [Task 4:  GuitarString](#string)
 
-<a name="How Work"></a> How Work
+<a name="HowWork"></a> How Work
 --------------------------------
 I built this project by gradle. All the source files and test files are in ./src directory.
 To build project
