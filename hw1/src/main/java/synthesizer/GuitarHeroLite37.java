@@ -16,7 +16,6 @@ public class GuitarHeroLite37 {
 		for(int i=0;i<37;++i){
 			map.put(keyboard.charAt(i),new GuitarString(440*Math.pow(2,(0 - 24) / 12)));
 		}
-	   
 
         while (true) {
 
