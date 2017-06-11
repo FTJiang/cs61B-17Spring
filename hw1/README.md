@@ -1,11 +1,31 @@
 Table of Contents
 ----------------
 
+- [How Work](#How Work)
 - [Introduction](#introduction)
 - [Task 1:  BoundedQueue](#interface)
 - [Task 2:  AbstractBoundedQueue](#abstract)
 - [Task 3:  ArrayRingBuffer](#array)
 - [Task 4:  GuitarString](#string)
+
+<a name="How Work"></a> How Work
+--------------------------------
+I built this project by gradle. All the source files and test files are in ./src directory.
+To build project
+```
+gradle build
+```
+To run program
+```
+cd build/classes/main
+java GuitarHeroLite37
+```
+Play around
+Use the following 37 keys to represent the keyboard, from lowest note to highest note:
+
+    String keyboard = "q2we4r5ty7u8i9op-[=zxdcfvgbnjmk,.;/' ";
+
+This keyboard arrangement imitates a piano keyboard: The "white keys" are on the qwerty and zxcv rows and the "black keys" on the 12345 and asdf rows of the keyboard. 
 
 <a name="introduction"></a> Introduction
 --------------------------------
